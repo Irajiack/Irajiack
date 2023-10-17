@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @Irajiack
-- 👀 I’m interested in mostly building web browsers game! 
-- 🌱 I’m currently learning Javascript. Well, I already know the vanilla one but I'm going to learn React and Angular! 
-- 📫 How to reach me by email mostly.
-- You can go check my upcoming Dragon Breeding game here => https://arcanadraconis.ca/
-<!---
-Irajiack/Irajiack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2> Hello! </h2> 
+I'm Irajiack (She/Her)! I'm a full stack dev, mostly toward web development, I built some dragon breeding games in the past and I'm now making a brand new one! 
+I'm also an artist and a writer! I love listening to documentaries as well and playing video games! 
+I've been coding for more than 13 years as well! 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,php,jquery,mysql,figma,ps,visualstudio,wordpress,twitter,linkedin," />
+  </a>
+</p>
+
+
