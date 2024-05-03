@@ -5,7 +5,7 @@ I've been coding for more than 13 years as well!
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,php,jquery,mysql,figma,ps,visualstudio,wordpress,linkedin," />
+    <img src="https://skillicons.dev/icons?i=js,html,css,php,jquery,mysql,figma,ps,visualstudio,wordpress" />
   </a>
 </p>
 
