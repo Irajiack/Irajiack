@@ -1,5 +1,5 @@
 <h2> Hello! </h2> 
-I'm Irajiack (She/Her), but you can call me Ira for short! I am your local French Canadian depressie, ADHD potato-goldfish! 
+I'm Irajiack (She/Her), but you can call me Ira for short! I'm your local French Canadian ADHD potato! 
 
 I'm a full-stack dev, I mostly gear toward self projects and freelancing! I've been coding for more than 13 years! Starting easy with HTML, CSS and PHP in 2008 and by 2010 I started learning Javascript and Ajax! I am not concidering myself has specially gift or extremely good at it but I do think I can defend myself!
 
