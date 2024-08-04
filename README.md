@@ -10,7 +10,7 @@ I'm also an artist and a writer! Well more an artist than a writer minds you but
 
 I also happen to be an Inkblot volunteer for the Community Event team! :D
 
-<h2>My connaisances so far:</h2>
+<h2>My knowledge so far:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,php,jquery,mysql,figma,ps,vscode,wordpress" />
