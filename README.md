@@ -1,4 +1,4 @@
-<h2> Hello! </h2> 
+<h2> It is a-me, Irajiack! </h2> 
 I'm Irajiack, but you can call me Ira for short! 
 I'm your local French Canadian ADHD potato! 
 
@@ -27,11 +27,18 @@ Anyway here links toward some of the things I did over time :3
 </ul>
 I also have other projects that for the moment, sadly, I cannot show around! Most because of NDA.
 
-
 <h2>My knowledge so far:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,jquery,mysql,figma,ps,vscode,wordpress" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,jquery,mysql,tailwind,sass" />
+  </a>
+</p>
+
+<h2>Softwares & Framework:</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,ps,vscode,wordpress" />
   </a>
 </p>
 
@@ -43,4 +50,18 @@ I also have other projects that for the moment, sadly, I cannot show around! Mos
   </a>
 </p>
 
+
+<h2>Socials:</h2>
+<p align="center">
+  <a href="https://bsky.app/profile/irajiack.bsky.social" target="_blank"><img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge"></a>
+</p>
+
+<h2>Stats:</h2>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irajiack&theme=shadow_red)
+
+[![Irajiack's GitHub stats](https://github-readme-stats.vercel.app/api?username=irajiack&theme=shadow_red&show_icons=true)](https://github.com/irajiack/github-readme-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=irajiack&theme=shadow_red)](https://github.com/irajiack/github-readme-stats)
+  
 
