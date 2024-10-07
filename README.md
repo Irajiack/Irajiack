@@ -58,8 +58,6 @@ I also have other projects that for the moment, sadly, I cannot show around! Mos
 
 <h2>Stats:</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irajiack&theme=shadow_red)
-
 [![Irajiack's GitHub stats](https://github-readme-stats.vercel.app/api?username=irajiack&theme=shadow_red&show_icons=true)](https://github.com/irajiack/github-readme-stats)
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=irajiack&theme=shadow_red)](https://github.com/irajiack/github-readme-stats)
