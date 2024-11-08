@@ -12,7 +12,7 @@ Did a small game for Inkblot! <a href="https://costume-a-bo.inkblot.art/">Costum
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stat-git-186505-camilel-elisabeth-bleaus-projects.vercel.app/api?username=Irajiack&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Irajiack&theme=shadow_red&hide_border=false)<br/>
+[![GitHub Streak](https://github-readme-streak-stats-six-gamma.vercel.app?user=Irajiack&theme=shadow-red&mode=weekly)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stat-git-186505-camilel-elisabeth-bleaus-projects.vercel.app/api/wakatime?username=irajiack&theme=shadow_red)<br/>
 
 ## 🔭 GitHub Repos:
